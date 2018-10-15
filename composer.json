@@ -1,0 +1,12 @@
+{
+    "name": "svennoorlander/header-query",
+    "description": "Dynamically build database queries with request headers",
+    "type": "unknown",
+    "authors": [
+        {
+            "name": "Sven Noorlander",
+            "email": "s.noorlander@sqits.nl"
+        }
+    ],
+    "require": {}
+}
